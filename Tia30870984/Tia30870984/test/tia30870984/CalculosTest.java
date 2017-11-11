@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tia30870984;
+package tia31440721;
 
 import org.junit.After;
 import org.junit.AfterClass;
@@ -14,7 +14,7 @@ import static org.junit.Assert.*;
 
 /**
  *
- * @author 30870984
+ * @author 31440721
  */
 public class CalculosTest {
    static  int[] digitos = new int[8];
